@@ -4,5 +4,5 @@
 .idea
 *.iml
 out
-lib
+JAVAER/lib
 target
